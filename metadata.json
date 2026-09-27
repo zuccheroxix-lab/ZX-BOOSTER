@@ -1,0 +1,7 @@
+{
+  "name": "ZX Game Booster",
+  "description": "ZX Game Booster Launcher & Performance Gaming Center by Zucchero Xann. Safe, legal, rootless game optimization and device hardware monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
